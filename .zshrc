@@ -1,0 +1,2 @@
+source ~/.zplug/init.zsh
+
