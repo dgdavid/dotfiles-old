@@ -3,3 +3,7 @@ colorscheme PaperColor
 set background=dark
 set relativenumber
 set cc=81
+
+" JavaScript & JSX syntax configuration
+let g:jsx_ext_required = 0
+let g:javascript_plugin_jsdoc = 1
