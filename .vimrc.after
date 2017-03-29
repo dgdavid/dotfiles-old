@@ -1,0 +1,5 @@
+colorscheme PaperColor
+
+set background=dark
+set relativenumber
+set cc=81
