@@ -34,3 +34,14 @@ I had the [`prezto`](https://github.com/sorin-ionescu/prezto) configuration
 framework for Zsh, after using for a while
 [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh). But now I decided to
 give a chance to [`zplug`](https://github.com/zplug/zplug).
+
+## Janus: Vim Distribution
+
+So far I was using the awesome Steve Francia's vim distribution,
+[spf13-vim](http://vim.spf13.com/). But I decided to change to a less
+sophisticated configuration using [Janus](https://github.com/carlhuda/janus).
+
+### Additional configuration
+
+ - [PaperColor Theme](https://github.com/NLKNguyen/papercolor-theme)
+   Light & Dark color schemes inspired by Google's Material Design.
