@@ -8,6 +8,9 @@ set cc=81
 let g:jsx_ext_required = 0
 let g:javascript_plugin_jsdoc = 1
 
+" NERDTree
+let NERDTreeShowHidden=1
+
 " Persistent undo
 set undofile
 set undodir=~/.vimundo
